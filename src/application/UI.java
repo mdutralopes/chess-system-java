@@ -62,7 +62,7 @@ public class UI {
 			}
 		}
 		else {
-			System.out.println(" XEQUEMATE!");
+			System.out.println(" XEQUE-MATE!");
 			System.out.println("Vencedor: " + chessMatch.getCurrentPlayer());
 		}	
 	}
